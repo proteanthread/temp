@@ -9,4 +9,4 @@ Outputs the current GPU, CPU, and harddrive temperatures in celcius or farhenhei
 `cc -std=c89 -Wall -Wextra -pedantic -o temp temp.c`
 
 ### Bruce's C Compiler (BCC)
-`bcc -ansi -f -o temp temp.c`
+`bcc -ansi -o temp temp.c`
